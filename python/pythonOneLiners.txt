@@ -1,0 +1,2 @@
+# convert .pynb to .py
+jupyter nbconvert --to script *.ipynb
