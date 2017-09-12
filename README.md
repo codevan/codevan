@@ -8,12 +8,14 @@ We're in Alvin Toffler's 3rd wave in data, and no longer need to live with commo
 Get -> manipulate -> gain insights -> take action
 
 1. Code: On time, to standard, without waste
-1. Data: Extract, Clean, Conform, Deliver
+1. Data: Extract, Clean, Conform, <del>Deliver</del> Publish/Subscribe
 1. Science: Automated actionable insights
 
 ## Currently playing with:
-1. Scala's breeze.linalg._ linear algebra library
-1. Python's numpy library - also linear algebra
+1. <del>Scala's breeze.linalg._ linear algebra library</del>
+1. <del>Python's numpy library - also linear algebra</del>
+1. Ethereum Solidity
+1. Azure Data Catalog integration
 
 Hopefully in time, this will be a great place to find lots of data science insights and code.
 Right now, I've got years of code, scripts and snippets which need a smarter home, and ideas that need to be shared. 
